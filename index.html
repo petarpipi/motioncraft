@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#09090A" />
+    <meta
+      name="description"
+      content="MOTIONCRAFT — a creative development portfolio: a real-time WebGL slat sculpture, scroll-directed GSAP cinema and kinetic variable type."
+    />
+    <title>MOTIONCRAFT — Beyond static</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href="%SITE_URL%/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="MOTIONCRAFT" />
+    <meta property="og:title" content="MOTIONCRAFT — Beyond static" />
+    <meta
+      property="og:description"
+      content="Real-time WebGL, scroll-directed GSAP cinema and kinetic variable type. A self-initiated creative development portfolio."
+    />
+    <meta property="og:url" content="%SITE_URL%/" />
+    <meta property="og:image" content="%SITE_URL%/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="MOTIONCRAFT hero: the words Beyond static beside a chrome sculpture made of forty slats."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="MOTIONCRAFT — Beyond static" />
+    <meta
+      name="twitter:description"
+      content="Real-time WebGL, scroll-directed GSAP cinema and kinetic variable type."
+    />
+    <meta name="twitter:image" content="%SITE_URL%/og-image.jpg" />
+    <script>
+      // Resolve the motion preference before first paint to avoid a flash of animated layout.
+      ;(function () {
+        var pref = 'auto'
+        try {
+          pref = localStorage.getItem('motioncraft:motion') || pref
+          if (pref === 'auto' && localStorage.getItem('motioncraft:paused') === 'true') pref = 'off'
+        } catch (e) {}
+        var system = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+        var reduced = pref === 'off' || (pref === 'auto' && system)
+        document.documentElement.dataset.motion = reduced ? 'reduced' : 'full'
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript
+      >This interactive portfolio requires JavaScript. MOTIONCRAFT is a self-initiated creative
+      development demonstration featuring a real-time WebGL sculpture, scroll storytelling, kinetic
+      typography and accessible interactions.</noscript
+    >
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

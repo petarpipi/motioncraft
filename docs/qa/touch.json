@@ -1,0 +1,33 @@
+{
+  "device": "390x844 touch emulation, Edge, native CDP touch events and Playwright tap",
+  "results": [
+    {
+      "interaction": "hero sculpture tap + horizontal drag",
+      "passed": true,
+      "impulse": 0.388,
+      "pointer": "0.536,0.002"
+    },
+    {
+      "interaction": "magnetic core touch drag",
+      "passed": true,
+      "position": "39.63,13.21",
+      "pageScrollUnchanged": true
+    },
+    {
+      "interaction": "touch physics reset",
+      "passed": true
+    },
+    {
+      "interaction": "touch shader pulse",
+      "passed": true
+    },
+    {
+      "interaction": "touch variable type field",
+      "passed": true
+    },
+    {
+      "interaction": "touch depth selection",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "httpStatus": 200,
+      "heading": "B\nE\nY\nO\nN\nD\ns\nt\na\nt\ni\nc\n."
+    },
+    {
+      "route": "/experiences#fluid",
+      "httpStatus": 200,
+      "heading": "Feel the\nresponse."
+    },
+    {
+      "route": "/studio#contact",
+      "httpStatus": 200,
+      "heading": "NOTHING\nBY ACCIDENT."
+    },
+    {
+      "route": "/missing",
+      "httpStatus": 200,
+      "heading": "A little out\nof motion."
+    }
+  ],
+  "version": 3,
+  "errors": [],
+  "passed": true
+}

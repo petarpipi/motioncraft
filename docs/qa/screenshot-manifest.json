@@ -1,0 +1,674 @@
+[
+  {
+    "device": "desktop-1920",
+    "name": "hero",
+    "path": "docs/screenshots/desktop-1920-hero.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "cinema-form",
+    "path": "docs/screenshots/desktop-1920-cinema-form.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/desktop-1920-cinema-transformation.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/desktop-1920-cinema-reveal.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "showcase",
+    "path": "docs/screenshots/desktop-1920-showcase.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "studies",
+    "path": "docs/screenshots/desktop-1920-studies.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "experiences",
+    "path": "docs/screenshots/desktop-1920-experiences.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/desktop-1920-study-magnetic.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "study-fluid",
+    "path": "docs/screenshots/desktop-1920-study-fluid.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "study-type",
+    "path": "docs/screenshots/desktop-1920-study-type.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "study-depth",
+    "path": "docs/screenshots/desktop-1920-study-depth.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1920",
+    "name": "studio",
+    "path": "docs/screenshots/desktop-1920-studio.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "device": "desktop-1440",
+    "name": "hero",
+    "path": "docs/screenshots/desktop-1440-hero.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "cinema-form",
+    "path": "docs/screenshots/desktop-1440-cinema-form.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/desktop-1440-cinema-transformation.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/desktop-1440-cinema-reveal.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "showcase",
+    "path": "docs/screenshots/desktop-1440-showcase.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "studies",
+    "path": "docs/screenshots/desktop-1440-studies.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "experiences",
+    "path": "docs/screenshots/desktop-1440-experiences.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/desktop-1440-study-magnetic.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "study-fluid",
+    "path": "docs/screenshots/desktop-1440-study-fluid.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "study-type",
+    "path": "docs/screenshots/desktop-1440-study-type.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "study-depth",
+    "path": "docs/screenshots/desktop-1440-study-depth.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "desktop-1440",
+    "name": "studio",
+    "path": "docs/screenshots/desktop-1440-studio.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "laptop-1024",
+    "name": "hero",
+    "path": "docs/screenshots/laptop-1024-hero.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "cinema-form",
+    "path": "docs/screenshots/laptop-1024-cinema-form.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/laptop-1024-cinema-transformation.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/laptop-1024-cinema-reveal.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "showcase",
+    "path": "docs/screenshots/laptop-1024-showcase.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "studies",
+    "path": "docs/screenshots/laptop-1024-studies.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "experiences",
+    "path": "docs/screenshots/laptop-1024-experiences.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/laptop-1024-study-magnetic.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "study-fluid",
+    "path": "docs/screenshots/laptop-1024-study-fluid.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "study-type",
+    "path": "docs/screenshots/laptop-1024-study-type.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "study-depth",
+    "path": "docs/screenshots/laptop-1024-study-depth.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "laptop-1024",
+    "name": "studio",
+    "path": "docs/screenshots/laptop-1024-studio.png",
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "device": "tablet-768",
+    "name": "hero",
+    "path": "docs/screenshots/tablet-768-hero.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "cinema-form",
+    "path": "docs/screenshots/tablet-768-cinema-form.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/tablet-768-cinema-transformation.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/tablet-768-cinema-reveal.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "showcase",
+    "path": "docs/screenshots/tablet-768-showcase.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "studies",
+    "path": "docs/screenshots/tablet-768-studies.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "experiences",
+    "path": "docs/screenshots/tablet-768-experiences.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/tablet-768-study-magnetic.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "study-fluid",
+    "path": "docs/screenshots/tablet-768-study-fluid.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "study-type",
+    "path": "docs/screenshots/tablet-768-study-type.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "study-depth",
+    "path": "docs/screenshots/tablet-768-study-depth.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "tablet-768",
+    "name": "studio",
+    "path": "docs/screenshots/tablet-768-studio.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "device": "mobile-390",
+    "name": "hero",
+    "path": "docs/screenshots/mobile-390-hero.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "cinema-form",
+    "path": "docs/screenshots/mobile-390-cinema-form.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/mobile-390-cinema-transformation.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/mobile-390-cinema-reveal.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "showcase",
+    "path": "docs/screenshots/mobile-390-showcase.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "studies",
+    "path": "docs/screenshots/mobile-390-studies.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "experiences",
+    "path": "docs/screenshots/mobile-390-experiences.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/mobile-390-study-magnetic.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "study-fluid",
+    "path": "docs/screenshots/mobile-390-study-fluid.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "study-type",
+    "path": "docs/screenshots/mobile-390-study-type.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "study-depth",
+    "path": "docs/screenshots/mobile-390-study-depth.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-390",
+    "name": "studio",
+    "path": "docs/screenshots/mobile-390-studio.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "device": "mobile-375",
+    "name": "hero",
+    "path": "docs/screenshots/mobile-375-hero.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "cinema-form",
+    "path": "docs/screenshots/mobile-375-cinema-form.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "cinema-transformation",
+    "path": "docs/screenshots/mobile-375-cinema-transformation.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "cinema-reveal",
+    "path": "docs/screenshots/mobile-375-cinema-reveal.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "showcase",
+    "path": "docs/screenshots/mobile-375-showcase.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "studies",
+    "path": "docs/screenshots/mobile-375-studies.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "experiences",
+    "path": "docs/screenshots/mobile-375-experiences.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "study-magnetic",
+    "path": "docs/screenshots/mobile-375-study-magnetic.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "study-fluid",
+    "path": "docs/screenshots/mobile-375-study-fluid.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "study-type",
+    "path": "docs/screenshots/mobile-375-study-type.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "study-depth",
+    "path": "docs/screenshots/mobile-375-study-depth.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "mobile-375",
+    "name": "studio",
+    "path": "docs/screenshots/mobile-375-studio.png",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-0",
+    "path": "docs/screenshots/sequence-hero-opening-0.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-1",
+    "path": "docs/screenshots/sequence-hero-opening-1.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-2",
+    "path": "docs/screenshots/sequence-hero-opening-2.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-3",
+    "path": "docs/screenshots/sequence-hero-opening-3.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-4",
+    "path": "docs/screenshots/sequence-hero-opening-4.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-5",
+    "path": "docs/screenshots/sequence-hero-opening-5.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-6",
+    "path": "docs/screenshots/sequence-hero-opening-6.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "hero-opening-7",
+    "path": "docs/screenshots/sequence-hero-opening-7.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-0",
+    "path": "docs/screenshots/sequence-cinema-00.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-1",
+    "path": "docs/screenshots/sequence-cinema-01.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-2",
+    "path": "docs/screenshots/sequence-cinema-02.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-3",
+    "path": "docs/screenshots/sequence-cinema-03.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-4",
+    "path": "docs/screenshots/sequence-cinema-04.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-5",
+    "path": "docs/screenshots/sequence-cinema-05.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-6",
+    "path": "docs/screenshots/sequence-cinema-06.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-7",
+    "path": "docs/screenshots/sequence-cinema-07.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-8",
+    "path": "docs/screenshots/sequence-cinema-08.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-9",
+    "path": "docs/screenshots/sequence-cinema-09.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "cinema-10",
+    "path": "docs/screenshots/sequence-cinema-10.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "route-curtain-0",
+    "path": "docs/screenshots/sequence-route-curtain-0.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "route-curtain-1",
+    "path": "docs/screenshots/sequence-route-curtain-1.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "route-curtain-2",
+    "path": "docs/screenshots/sequence-route-curtain-2.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "route-curtain-3",
+    "path": "docs/screenshots/sequence-route-curtain-3.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "device": "sequence",
+    "name": "route-curtain-4",
+    "path": "docs/screenshots/sequence-route-curtain-4.png",
+    "width": 1440,
+    "height": 900
+  }
+]

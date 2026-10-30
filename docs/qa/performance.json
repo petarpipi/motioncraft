@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "method": "Fresh browser context per profile in one headless Edge process against the local production preview. CPU throttling uses CDP Emulation.setCPUThrottlingRate; mobile is touch emulation on desktop hardware, not a phone GPU. Frame deltas are requestAnimationFrame intervals while scrolling the pinned cinema with mouse-wheel steps; they are not an FPS guarantee.",
+  "browser": "156.0.4314.42",
+  "date": "2026-10-26T22:29:18.675Z",
+  "runs": [
+    {
+      "profile": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "cpuThrottle": 1,
+      "network": "unthrottled local",
+      "fcpMs": 520,
+      "lcpMs": 520,
+      "cls": 0.0306,
+      "longTasksMs": [
+        302,
+        82
+      ],
+      "totalBlockingMs": 284,
+      "firstWebGLFrameMs": 816,
+      "transferKB": 455,
+      "tier": "high",
+      "idleRenderedPerSecond": 30,
+      "scrollCinemaFrames": {
+        "frames": 368,
+        "medianMs": 16.7,
+        "p95Ms": 17,
+        "maxMs": 33.7,
+        "over33ms": 1,
+        "over50ms": 0
+      },
+      "jsHeapMB": 7.4
+    },
+    {
+      "profile": "desktop-cpu4x-slow4g",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "cpuThrottle": 4,
+      "network": "1.6 Mbps / 150 ms",
+      "fcpMs": 2272,
+      "lcpMs": 2272,
+      "cls": 0.0358,
+      "longTasksMs": [
+        113,
+        55,
+        969,
+        205,
+        54,
+        121,
+        54,
+        58,
+        99
+      ],
+      "totalBlockingMs": 1278,
+      "firstWebGLFrameMs": 4152,
+      "transferKB": 455,
+      "tier": "high",
+      "idleRenderedPerSecond": 30,
+      "scrollCinemaFrames": {
+        "frames": 354,
+        "medianMs": 16.7,
+        "p95Ms": 33.3,
+        "maxMs": 50.1,
+        "over33ms": 8,
+        "over50ms": 1
+      },
+      "jsHeapMB": 7.3
+    },
+    {
+      "profile": "mobile-cpu4x",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "cpuThrottle": 4,
+      "network": "unthrottled local",
+      "fcpMs": 1056,
+      "lcpMs": 1056,
+      "cls": 0.0061,
+      "longTasksMs": [
+        120,
+        50,
+        746,
+        247,
+        101
+      ],
+      "totalBlockingMs": 1014,
+      "firstWebGLFrameMs": 1899,
+      "transferKB": 455,
+      "tier": "low",
+      "idleRenderedPerSecond": 30,
+      "scrollCinemaFrames": {
+        "frames": 355,
+        "medianMs": 16.7,
+        "p95Ms": 33.9,
+        "maxMs": 166.7,
+        "over33ms": 22,
+        "over50ms": 12
+      },
+      "jsHeapMB": 8.1
+    }
+  ],
+  "assets": [
+    {
+      "name": "archivo-latin-wdth-normal-DY7AcnAa.woff2",
+      "bytes": 90104,
+      "gzipBytes": 90152
+    },
+    {
+      "name": "engine-Bx2blnil.js",
+      "bytes": 10228,
+      "gzipBytes": 4366
+    },
+    {
+      "name": "Experiences-BQfUPtcS.js",
+      "bytes": 17699,
+      "gzipBytes": 6127
+    },
+    {
+      "name": "FluidCanvas-D92GE61J.js",
+      "bytes": 4558,
+      "gzipBytes": 2195
+    },
+    {
+      "name": "gsap-CHfANB6y.js",
+      "bytes": 112783,
+      "gzipBytes": 43951
+    },
+    {
+      "name": "index-0AVInqih.js",
+      "bytes": 37500,
+      "gzipBytes": 12071
+    },
+    {
+      "name": "index-CtxRgDBB.css",
+      "bytes": 36258,
+      "gzipBytes": 8456
+    },
+    {
+      "name": "instrument-serif-latin-400-italic-DKMiL14s.woff2",
+      "bytes": 22128,
+      "gzipBytes": 22156
+    },
+    {
+      "name": "react-ujx0p90A.js",
+      "bytes": 256221,
+      "gzipBytes": 80418
+    },
+    {
+      "name": "rolldown-runtime-WkwZ5CU-.js",
+      "bytes": 599,
+      "gzipBytes": 368
+    },
+    {
+      "name": "SculptureStage-COl5E8AH.js",
+      "bytes": 1625,
+      "gzipBytes": 844
+    },
+    {
+      "name": "space-grotesk-latin-500-normal-lFbtlQH6.woff2",
+      "bytes": 13312,
+      "gzipBytes": 13335
+    },
+    {
+      "name": "Studio-1BPdUvxq.js",
+      "bytes": 6683,
+      "gzipBytes": 2550
+    },
+    {
+      "name": "three.module-DG2jrkQE.js",
+      "bytes": 522496,
+      "gzipBytes": 128752
+    }
+  ]
+}
